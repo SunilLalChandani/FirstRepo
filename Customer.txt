@@ -1,0 +1,3 @@
+Customer1="sunny";
+Customer2="sakshi";
+Customer3="Aastha";
